@@ -1,0 +1,1 @@
+g++ ./src/main.cpp -o ./build/app -I ./lib/SDL2/include -L ./lib/SDL2/lib -l SDL2 -l SDL2main
